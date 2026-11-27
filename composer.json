@@ -1,0 +1,8 @@
+{
+  "name": "akademik/php-mongodb",
+  "description": "Sistem Informasi Akademik sederhana",
+  "require": {
+    "php": "^8.2",
+    "mongodb/mongodb": "^2.0"
+  }
+}
